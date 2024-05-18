@@ -1,0 +1,15 @@
+2024/05/16-02:47:01.258 583c Reusing MANIFEST D:/Unreal Engine Projects/NiagraVFXLearn/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/16-02:47:01.259 583c Recovering log #7
+2024/05/16-02:47:01.259 583c Reusing old log D:/Unreal Engine Projects/NiagraVFXLearn/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/05/16-03:39:48.434 565c Level-0 table #11: started
+2024/05/16-03:39:48.485 565c Level-0 table #11: 190 bytes OK
+2024/05/16-03:39:48.535 565c Delete type=0 #7
+2024/05/16-03:39:48.536 565c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/16-03:39:48.536 565c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/05/16-03:39:48.537 565c Compacting 1@1 + 1@2 files
+2024/05/16-03:39:48.584 565c Generated table #12@1: 18 keys, 534 bytes
+2024/05/16-03:39:48.584 565c Compacted 1@1 + 1@2 files => 534 bytes
+2024/05/16-03:39:48.626 565c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-03:39:48.627 565c Delete type=2 #5
+2024/05/16-03:39:48.627 565c Delete type=2 #11
+2024/05/16-03:39:48.627 565c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
